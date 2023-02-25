@@ -1,6 +1,10 @@
 # Projetos Power BI  📊
 
-Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir análises de cenários reais do cotidiano.
+Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir análises de cenários reais do cotidiano:
+<p>- Dashboard de dados Netflix <a href="https://github.com/Jezebel1990/Dashboard-netflix.git">nesse link</a> </p>
+
+
+
 
 
 # Dashboard de dados Netflix
