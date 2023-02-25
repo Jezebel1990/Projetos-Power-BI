@@ -4,6 +4,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 
 # Dashboard de dados Netflix
-![Captura de tela 2023-02-25 005318](https://user-images.githubusercontent.com/75287031/221335496-772408da-de6d-4cb4-b9e3-9d71a8f68140.png)
+![Captura de tela 2023-02-25 005318](https://user-images.githubusercontent.com/75287031/221336250-9237b543-5716-49e3-94be-50c840464e42.png)
 
-<p>Acesse o dashboard neste link</p>
+
+<p>Acesse o dashboard [**neste link**](https://app.powerbi.com/groups/me/reports/12228509-01fe-45c6-b241-bb33d79064ce?pbi_source=desktop) </p>
