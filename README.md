@@ -8,9 +8,10 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 # Dashboard de dados Netflix
 ![Captura de tela 2023-02-25 005318](https://user-images.githubusercontent.com/75287031/221336250-9237b543-5716-49e3-94be-50c840464e42.png)
-<h2> Este dashboard, contém a análise do histórico de acesso de um usuário da Netflix entre oa anos de 2014 a 2022.</h2>
+<h4> Este dashboard, contém a análise do histórico de acesso de um usuário da Netflix entre oa anos de 2014 a 2022.</h4>
 <p>Acesse o dashboard de dados Netflix <a href="https://app.powerbi.com/groups/me/reports/12228509-01fe-45c6-b241-bb33d79064ce?pbi_source=desktop">nesse link</a> </p>
 
+<br>
 
 # Dashboard de produtos
 ![Captura de tela 2023-02-26 203343](https://user-images.githubusercontent.com/75287031/221444459-74bd1483-0d85-4f23-b674-e346beca2a8c.png)
